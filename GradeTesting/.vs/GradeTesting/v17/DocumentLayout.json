@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\OneDrive - HERE Global B.V\\Desktop\\CDAC\\BridgeLabz_day3\\Regex\\GradeTesting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72A8A822-18F8-4F9A-9DC7-415262BA11C0}|TestProject1\\TestProject1.csproj|c:\\users\\dell\\onedrive - here global b.v\\desktop\\cdac\\bridgelabz_day3\\regex\\gradetesting\\testproject1\\gradecalculatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A8A822-18F8-4F9A-9DC7-415262BA11C0}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\gradecalculatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46827E7E-A8C6-454D-A663-F2C255240B7C}|GradeTesting\\GradeTesting.csproj|c:\\users\\dell\\onedrive - here global b.v\\desktop\\cdac\\bridgelabz_day3\\regex\\gradetesting\\gradetesting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46827E7E-A8C6-454D-A663-F2C255240B7C}|GradeTesting\\GradeTesting.csproj|solutionrelative:gradetesting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46827E7E-A8C6-454D-A663-F2C255240B7C}|GradeTesting\\GradeTesting.csproj|c:\\users\\dell\\onedrive - here global b.v\\desktop\\cdac\\bridgelabz_day3\\regex\\gradetesting\\gradetesting\\gradecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46827E7E-A8C6-454D-A663-F2C255240B7C}|GradeTesting\\GradeTesting.csproj|solutionrelative:gradetesting\\gradecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GradeCalculatorTest.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive - HERE Global B.V\\Desktop\\CDAC\\BridgeLabz_day3\\Regex\\GradeTesting\\TestProject1\\GradeCalculatorTest.cs",
+              "RelativeDocumentMoniker": "TestProject1\\GradeCalculatorTest.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive - HERE Global B.V\\Desktop\\CDAC\\BridgeLabz_day3\\Regex\\GradeTesting\\TestProject1\\GradeCalculatorTest.cs",
+              "RelativeToolTip": "TestProject1\\GradeCalculatorTest.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T12:30:24.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GradeCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive - HERE Global B.V\\Desktop\\CDAC\\BridgeLabz_day3\\Regex\\GradeTesting\\GradeTesting\\GradeCalculator.cs",
+              "RelativeDocumentMoniker": "GradeTesting\\GradeCalculator.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive - HERE Global B.V\\Desktop\\CDAC\\BridgeLabz_day3\\Regex\\GradeTesting\\GradeTesting\\GradeCalculator.cs",
+              "RelativeToolTip": "GradeTesting\\GradeCalculator.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T12:20:58.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive - HERE Global B.V\\Desktop\\CDAC\\BridgeLabz_day3\\Regex\\GradeTesting\\GradeTesting\\Program.cs",
+              "RelativeDocumentMoniker": "GradeTesting\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive - HERE Global B.V\\Desktop\\CDAC\\BridgeLabz_day3\\Regex\\GradeTesting\\GradeTesting\\Program.cs",
+              "RelativeToolTip": "GradeTesting\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T12:19:49.325Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

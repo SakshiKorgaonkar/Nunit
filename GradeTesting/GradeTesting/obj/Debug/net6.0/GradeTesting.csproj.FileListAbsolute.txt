@@ -1,0 +1,15 @@
+C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_day3\Regex\GradeTesting\GradeTesting\bin\Debug\net6.0\GradeTesting.exe
+C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_day3\Regex\GradeTesting\GradeTesting\bin\Debug\net6.0\GradeTesting.deps.json
+C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_day3\Regex\GradeTesting\GradeTesting\bin\Debug\net6.0\GradeTesting.runtimeconfig.json
+C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_day3\Regex\GradeTesting\GradeTesting\bin\Debug\net6.0\GradeTesting.dll
+C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_day3\Regex\GradeTesting\GradeTesting\bin\Debug\net6.0\GradeTesting.pdb
+C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_day3\Regex\GradeTesting\GradeTesting\obj\Debug\net6.0\GradeTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_day3\Regex\GradeTesting\GradeTesting\obj\Debug\net6.0\GradeTesting.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_day3\Regex\GradeTesting\GradeTesting\obj\Debug\net6.0\GradeTesting.AssemblyInfo.cs
+C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_day3\Regex\GradeTesting\GradeTesting\obj\Debug\net6.0\GradeTesting.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_day3\Regex\GradeTesting\GradeTesting\obj\Debug\net6.0\GradeTesting.sourcelink.json
+C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_day3\Regex\GradeTesting\GradeTesting\obj\Debug\net6.0\GradeTesting.dll
+C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_day3\Regex\GradeTesting\GradeTesting\obj\Debug\net6.0\refint\GradeTesting.dll
+C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_day3\Regex\GradeTesting\GradeTesting\obj\Debug\net6.0\GradeTesting.pdb
+C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_day3\Regex\GradeTesting\GradeTesting\obj\Debug\net6.0\GradeTesting.genruntimeconfig.cache
+C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_day3\Regex\GradeTesting\GradeTesting\obj\Debug\net6.0\ref\GradeTesting.dll
